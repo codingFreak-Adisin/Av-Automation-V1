@@ -11,4 +11,9 @@ For building this project this is all hardware components used -:
 6) Arduino Uno        
 7) Some jumper wires
 
-We used some libraries, which were downloaded inside the IDE, and some of them were included in a zip file. All the Arduino code was written in C programming language 
+I used some libraries, which were downloaded inside the IDE, and some of them were included in a zip file. All the Arduino code was written in C programming language 
+
+
+Here is the demo video of the project -: https://youtu.be/QeoJKji4J0Y
+
+I hope you like the project :)
